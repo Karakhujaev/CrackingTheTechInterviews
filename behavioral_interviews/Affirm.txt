@@ -1,0 +1,22 @@
+Tell me about your self: 
+    I'm a backend engineer and technical lead currently heading a team of 5+ members to develop an alternative to the BLIK payment system, targeting Central Asia. 
+    With over three years of experience, I specialize in building scalable, secure systems, optimizing backend performance, and integrating payment solutions like Click and PayMe. 
+    My expertise includes Go, Python, TypeScript, and frameworks like Django and FastAPI, with a strong focus on delivering innovative financial technology solutions.
+
+
+what Do you know about Affirm:
+    Affirm is a leading fintech company focused on providing buy now, pay later (BNPL) solutions. 
+    You empower consumers to make purchases through flexible payment plans without hidden fees or penalties, promoting transparency and financial control. 
+    Affirm collaborates with a wide range of merchants to offer these services, making it easier for businesses to drive sales while enhancing customer experiences.
+
+    - Founded By Max Levchin, HeadCuartered in Claifornia San Francisco
+
+Why i fit for the role:
+
+    My experience in backend engineering, including payment system integrations (Click, PayMe), aligns with Affirm's focus on secure financial technologies.
+    I want to Highlight my ability to optimize databases and systems for scalability, which could directly contribute to Affirm’s operational excellence.   
+
+Why You Admire Affirm:
+    Affirm aligns with my values of innovation and transparency, focusing on ethical financial solutions that empower customers.
+    I’m particularly impressed by how Affirm balances cutting-edge technology and a customer-first approach to solve real-world problems.
+    The opportunity to work at a company that’s reshaping financial access is exciting because it aligns with my skills and aspirations.

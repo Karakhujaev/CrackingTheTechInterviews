@@ -1,0 +1,38 @@
+1) Tell me about yourself:
+
+  - I am Musokhon Karakhujaev with 3 years of commercial development experiecne. I am a student in field of Computer Science. In my recent role, i was responsible to building scalable backend systems. I am particulary skilled in building backend systems with Python and Golang programming languages with Deployment experience.
+
+2) What is your strength:
+
+  - One of my key strengths are my strong analytical and problem-solving skills. Throughout my career, I have consistently demonstrated the ability to analyze complex situations, identify key issues, and develop effective solutions.
+
+3) What interests you about this position:
+
+  - The reason why i interested to this role is that my skills perfectly fit with the role requirement. The main reason is that i looked for postion which focused for data engineering as a Developer to try my self in Data Science field. Moreover i inquired with with people in my network about GTS and 99% of them responsed me that GTS is one of the gigants the leading Data annotation company. 
+
+4) Can you provide an example of a challenge you faced at work and how you overcame it?
+
+  - In preivious role we had a project CRM system. In the last stages of the deadline suddently Client wanted to change the main buissness logic of the platform. I was one of the key developers who was responsible to the back End part. WIth my manager We collaboratively developed a revised plan, reallocated resources, and ensured open communication channels throughout the process. As a result, we not only met the new project requirements but also improved our overall workflow.
+
+5) Do you know about Affirm?
+
+  - Affirm is one of gigants in Fin Tech industry which makes people life easier by their solution and make merchants easier for more than 15 million consumers . Like the ceo of Affirm mr. Max Levchin - "Affirm is power"
+
+6) Do you know about GTS?
+
+ - Global Trading Systems, You use name GTS, You are an American proprietary trading and market making firm headquartered in New York. The firm accounts for 3 to 5 percent of the daily turnover of US equities and has handled over 250 IPO listings since 2013. Addictinaly GTS and Artificial Intelligence is the leading Data annotation company in 2023. GTS responsible for nearly $13 trillion of market capitalization. GTS Securities accounts for 3-5% of daily cash equities volume in the U.S. and is a leading Designated Market Maker (DMM)
+
+6) What would you say is your weakness?
+
+  -One area where I have continually worked on improving is my tendency to be overly critical of my own work. I have a strong desire to deliver high-quality results, and while this commitment ensures attention to detail, I sometimes find myself spending more time than necessary on a task, striving for perfection.
+
+  To address this, I've adopted a more structured approach to time management and goal setting. I've learned to prioritize tasks efficiently, allowing me to maintain a high standard of work without getting caught up in unnecessary details. 
+
+7) Can you share a situation where you made a mistake or faced a challenge in your previous career?
+
+  -  In my previous role at Datasite Technology I faced with fault kind of not putting deadline truly. Then it effected to my work life balance principle. This experience taught me the importance of anylzing the task complexity and the requirements of the task and make your plan correctly for exact task. Since then, I have consistenly in the first stage try to analyze the task then i make decision to answer duration of the task.
+
+8) Why we should hire you?
+
+   I believe several factors make me a strong fit for this role and a valuable asset to your team. Firstly, my extensive experience in Backend Engineering has equipped me with a solid foundation in Tehcnologies you require. This experience allows me to bring a unique perspective and a deep understanding of the challenges and opportunities within the industry. Furthermore, I am highly adaptable and thrive in dynamic environments.
+
