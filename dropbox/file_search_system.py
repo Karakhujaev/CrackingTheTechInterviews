@@ -26,7 +26,6 @@ def find_duplicate_files(folder_path):
                 file_hash = get_file_hash(file_path)
                 hash_map.setdefault(file_hash, []).append(file_path)
             
-            # Collect duplicates
             for file_list in hash_map.values():
                 if len(file_list) > 1:
                     duplicates.extend(file_list)
@@ -53,8 +52,6 @@ def create_test_environment():
         f.write("duplicate content")
 
     return temp_dir
-
-
 
 import unittest
 
